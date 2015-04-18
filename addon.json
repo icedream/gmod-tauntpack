@@ -1,0 +1,22 @@
+{
+	"title"		:	"DN PropHunt Taunt Pack",
+	"type"		:	"servercontent",
+	"tags"		:	[ "fun", "roleplay" ],
+	"ignore"	:
+	[
+		"*.md",
+		"*.exe",
+		"*.exe.config",
+		"*.dll",
+		"*.dll.config",
+		"*.pdb",
+		"*.bat",
+		"*.cmd",
+		"*.sh",
+		"*.txt",
+		"*.gma",
+		"*.png",
+		"*.jpg",
+		".git*"
+	]
+}

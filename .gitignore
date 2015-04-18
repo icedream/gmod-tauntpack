@@ -1,0 +1,9 @@
+*.bat
+*.cmd
+*.sh
+*.gma
+*.exe
+*.exe.config
+*.pdb
+*.dll
+*.dll.config
