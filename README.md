@@ -138,8 +138,8 @@ If you want to install it on your server, you can add the addon to a collection 
 * Verschwinde oder meine Frau ruft Polizei!
 * Vinesauce - Who's been drawing dicks!?
 * White noise
-* You are an idiot7
+* You are an idiot
 
 ## License
 
-This tauntpack has been published under the MIT license. For license information see the [LICENSE.md](LICENSE.md) file.
+This tauntpack has been published under the MIT license. For license information see the [LICENSE](LICENSE) file.
