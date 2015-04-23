@@ -37,6 +37,7 @@ if SERVER then
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/dn0001.ogg", "ASDFMovie - Look at my new camera" })
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/ih0001.mp3", "Blue's Clues - We are gonna play Blue's Clues" })
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/dn0002.ogg", "Call of Duty - Sniper" })
+		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/dn0003.ogg", "Link: The Faces Of Evil - Join me, Link... or else you will die" })
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/ih0003b.mp3", "Music - What is love" })
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/ih0002.mp3", "Music - Woo Hoo!" })
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/ih000C.mp3", "Scary Movie - Run, bitch, RUN!" })
