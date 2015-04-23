@@ -88,6 +88,7 @@ if SERVER then
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih002D.mp3", "Imma firin mah lazor!" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih0024.mp3", "It owns!" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0010.ogg", "Jesus, man!" })
+		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0039.ogg", "Legend Of Zelda - Missed Jump Sound" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0024.ogg", "Legend Of Zelda - Navi - Hello" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0025.ogg", "Legend Of Zelda - Navi - Hey" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0014.ogg", "Macklemore - Gay" })
