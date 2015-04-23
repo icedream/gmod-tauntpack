@@ -1,6 +1,6 @@
 if SERVER then
 
-	print("[DN PropHunt Taunts] Loaded version 0.2.0")
+	print("[DN PropHunt Taunts] Loaded version 0.3.0")
 
 	local function removeTaunt(targetTauntPath)
 		for index, taunt in pairs(table.Copy(GAMEMODE.Hunter_Taunts)) do

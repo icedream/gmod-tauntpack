@@ -1,8 +1,10 @@
 {
 	"title"		:	"DN PropHunt Taunt Pack",
 	"type"		:	"servercontent",
+	"version"	:	3,
 	"tags"		:	[ "fun", "roleplay" ],
 	"author"	:	"Carl Kittelberger <icedream2k9@die-optimisten.net>",
+	"description":	"PropHunt taunt pack for the DreamNetwork GMod servers.",
 	"ignore"	:
 	[
 		"LICENSE",
