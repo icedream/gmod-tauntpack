@@ -154,4 +154,4 @@ If you want to install it on your server, you can add the addon to a collection 
 
 ## License
 
-This tauntpack has been published under the MIT license. For license information see the [LICENSE](LICENSE) file.
+This tauntpack has been published under the CC-BY-NC-ND 4.0 International license. For license information see the [LICENSE](LICENSE) file and [the Creative Commons license website](http://creativecommons.org/licenses/by-nc-nd/4.0/).
