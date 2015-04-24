@@ -53,6 +53,7 @@ If you want to install it on your server, you can add the addon to a collection 
 * Baby sounds
 * Boom headshot!
 * Bow chicka wow wow
+* Community - Hah, gay!
 * CSI - YEAAAAAAAAAH
 * Do you suck dicks?
 * Drumroll
@@ -61,7 +62,6 @@ If you want to install it on your server, you can add the addon to a collection 
 * Farts
 * Geh wo du wohnst, du Scheisse!
 * GTA5 - Death sound
-* Community - Hah, gay!
 * Hide yo kids, hide yo wife
 * HIMYM - It's gonna be legendary!
 * I like turtles
