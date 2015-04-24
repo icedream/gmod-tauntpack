@@ -27,11 +27,9 @@ if SERVER then
 		removeTaunt("taunts/boom_headshot.wav") -- Boom, Headshot!
 		removeTaunt("taunts/props/1.wav") -- Boom, Headshot!
 		removeTaunt("taunts/props/2.wav") -- Simpsons D'oh
-		removeTaunt("taunts/props/13.mp3") -- I need chippie for my bongo hole
 		removeTaunt("taunts/props/15.wav") -- Snooping as usual, I see
 		removeTaunt("taunts/props/33.mp3") -- Music - Call on me
 		removeTaunt("taunts/fixed/bees_fix.wav") -- Not the bees!
-		removeTaunt("taunts/fixed/13_fix.wav") -- I need chippie for my bongo hole
 
 		-- Hunter taunts
 		table.insert(GAMEMODE.Hunter_Taunts, { "taunts/dreamnetwork/hunters/dn0001.ogg", "ASDFMovie - Look at my new camera" })
@@ -85,7 +83,6 @@ if SERVER then
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih0031.mp3", "Hide yo kids, hide yo wife" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0013.ogg", "HIMYM - It's gonna be legendary!" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih0048.mp3", "I like turtles" })
-		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih000D.mp3", "I need chippie for my bonga hole" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih002D.mp3", "Imma firin mah lazor!" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/ih0024.mp3", "It owns!" })
 		table.insert(GAMEMODE.Prop_Taunts, { "taunts/dreamnetwork/props/dn0010.ogg", "Jesus, man!" })
