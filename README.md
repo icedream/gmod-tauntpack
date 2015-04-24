@@ -16,6 +16,7 @@ If you want to install it on your server, you can add the addon to a collection 
 * ASDFMovie - Look at my new camera
 * Blue's Clues - We are gonna play Blue's Clues
 * Call of Duty - Sniper
+* Link: The Faces Of Evil - Join me, Link... or else you will die
 * Music - What is love
 * Music - Woo Hoo!
 * Scary Movie - Run, bitch, RUN!
@@ -68,6 +69,17 @@ If you want to install it on your server, you can add the addon to a collection 
 * Imma firin mah lazor!
 * It owns!
 * Jesus, man!
+* Legend Of Zelda - Heart sound
+* Legend Of Zelda - Missed Jump sound
+* Legend Of Zelda - Navi - Hello
+* Legend Of Zelda - Navi - Hey
+* Legend Of Zelda - Opening Treasure Box
+* Legend Of Zelda - Small Item sound
+* Link: The Faces Of Evil - Come back when you're a little, mmm, richer
+* Link: The Faces Of Evil - Gee, it sure is boring around here
+* Link: The Faces Of Evil - Mah boi
+* Link: The Faces Of Evil - Now you see me, now you don't
+* Link: The Faces Of Evil - Squaddala!
 * Macklemore - Gay
 * Madagascar - Circus Afro
 * Me gusta
