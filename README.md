@@ -11,7 +11,7 @@ If you want to install it on your server, you can add the addon to a collection 
 
 ## Contained taunts
 
-## Hunters
+### Hunters
 
 * ASDFMovie - Look at my new camera
 * Blue's Clues - We are gonna play Blue's Clues
