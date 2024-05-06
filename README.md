@@ -1,7 +1,8 @@
-DN PropHunt Tauntpack
----------------------
+# Icedream's Prop Hunt Tauntpack
 
-This taunt pack is used by the gmod Prop Hunt servers on the DreamNetwork. It needs the [Prop Hunt Tauntpack Loader](https://steamcommunity.com/sharedfiles/filedetails/?id=272852615).
+This taunt pack will add some sounds to the Prop Hunt game mode in Garry's Mod. It is compatible with [Prop Hunt: X2Z](https://steamcommunity.com/sharedfiles/filedetails/?id=2176546751) or, for older or the original Prop Hunt gamemode implementations, the [Prop Hunt Tauntpack Loader](https://steamcommunity.com/sharedfiles/filedetails/?id=272852615).
+
+This taunt pack was used by the DreamNetwork Garry's Mod Prop Hunt servers years ago and is still maintained for compatibility with modern Prop Hunt implementations. It is a bit of a throwback to memes from that time while still also adding some funny variation to the game.
 
 ## Workshop
 
